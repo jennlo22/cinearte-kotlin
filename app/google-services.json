@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1011915295938",
+    "project_id": "bancolombia-firebase",
+    "storage_bucket": "bancolombia-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011915295938:android:dfa14f95bc7451d22d3f5b",
+        "android_client_info": {
+          "package_name": "de.cineaste.android.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011915295938-b4qqeuplg1ducef8dpt4h2v2fph8hjio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoL_4yMSVwjoi9BAtzZjYVnQFM3t93cL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011915295938-b4qqeuplg1ducef8dpt4h2v2fph8hjio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
